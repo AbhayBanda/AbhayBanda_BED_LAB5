@@ -2,7 +2,7 @@
 
 ## Home Screen
 
-&emsp;![image](/Video/Home.png)
+&emsp;![ScreenShot](/Video/Home.png)
 
 ## Create Screen
 
